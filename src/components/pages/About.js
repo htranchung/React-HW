@@ -2,6 +2,7 @@ import React from 'react';
 import myPhoto from '../../images/Harrison1.jpg';
 
 function About() {
+  // about me page
   return (
     <div className="container">
       <h1>About Page</h1>

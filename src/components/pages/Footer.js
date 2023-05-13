@@ -2,6 +2,7 @@ import React from 'react';
 
 function Footer() {
   return (
+    // footer with links to social 
     <footer>
       <div className="container">
         <p>&copy; 2023 My Website. All rights reserved.</p>
