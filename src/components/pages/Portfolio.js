@@ -4,6 +4,7 @@ import Pupper from '../../images/Pupper.png';
 import PortfolioPic from '../../images/Portfolio.png';
 
 function Portfolio() {
+  // links to my portfolio projects to the github repo
   return (
     <div className="container projectContainer">
       <h1>Portfolio</h1>

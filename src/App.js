@@ -8,6 +8,7 @@ import Footer from './components/pages/Footer';
 
 function App() {
   return (
+    // react routing with footer at the end
     <div>
       <Router>
         <div>
